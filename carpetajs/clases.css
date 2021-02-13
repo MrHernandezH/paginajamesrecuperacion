@@ -1,0 +1,151 @@
+#menu{
+    
+       background: white;
+    width: 65%;
+    margin: 0px auto; 
+    margin-top: 90px;
+    padding: 30px;
+
+}
+body{
+    
+    background: #b3ffff;
+}
+#titulo{
+    
+    
+    font-family: Comic Sans MS;
+    font-size: 45px;
+    text-align: center;
+    color: blue;
+    margin-top: 45px;
+}
+#formulario label option{
+    
+    margin-bottom: 2px;
+}
+.linea1,
+.linea2,
+.linea3{
+    
+    padding: 4px;
+    width: 3px;
+    height: 260px;
+    background: #3F3FA6;
+    border-radius: 180px;
+    margin: 10px 75px 0px 65px;
+    position: relative;
+    align-items: center;
+    
+}
+#torre{
+        color: #ffc6c6;
+        width: 100%;
+        height: 50%;
+       display: flex;
+       justify-content: space-around;
+       margin-top: 40px;
+      
+}
+#formu form{
+    
+    margin-top: 1px;
+}
+
+
+#disco8{
+              border-radius: 39px;
+                padding: 14px;
+                width:  10px;
+                background-color: black; 
+                margin-bottom: 0px;
+                 margin: auto;
+
+            }
+
+
+
+
+
+     #disco7{
+              border-radius: 39px;
+                padding: 14px;
+                width:  35px;
+                background-color: red; 
+                margin-bottom: 0px;
+                 margin: auto;
+
+            }
+            #disco6{
+              border-radius: 39px;
+                padding: 14px;
+                width:  60px;
+     
+                background-color: blue;  
+                margin-bottom: 0px;
+                 margin: auto;
+                
+            }
+            #disco5{
+              border-radius: 39px;
+                padding: 14px;
+                width:  85px;
+               
+                background-color: green; 
+                margin-bottom: 0px;
+                 margin: auto;
+                
+
+            }
+            #disco4{
+              border-radius: 39px;
+                padding: 14px;
+                width:  110px;
+             
+                background-color: purple;
+                margin-bottom: 0px;
+                 margin: auto;
+                          
+            }
+            #disco3{
+              border-radius: 39px;
+                padding: 14px;
+                width:  135px;
+                background-color: grey;
+                margin-bottom: 1px;
+                 margin: auto;
+                                  
+            }
+            #disco2{
+              border-radius: 39px;
+                padding: 14px;
+                width:  160px;
+                background-color: yellow; 
+                margin-left: 10px;
+                margin-bottom: 1px;
+                               margin: auto;
+            }
+            #disco1{
+              border-radius: 39px;
+                padding: 14px;
+                width:  185px;
+                background-color: orange; 
+                margin-bottom: 0px;
+                margin: auto;                       
+
+            }
+        
+            
+      
+            
+  
+            #discogeneral{
+                list-style:none;
+                margin-top: 30px;
+                cursor: pointer;
+                position: relative;
+                margin-left: -1343px;
+             
+            }
+            
+           

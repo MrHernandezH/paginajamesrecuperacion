@@ -1,0 +1,128 @@
+
+body{
+  background-color : #CCE5FF;   
+}
+#escabezado{
+    
+    background: #008080;
+    font-family: "Verdana","Arial";
+    font-size: 20px;
+    color: white;
+    width: 400px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 5px;
+    line-height: 70px;
+    margin: 0 auto;
+}
+#menu ul {
+    
+    list-style: none;
+
+}
+ul{
+    text-align: center;
+}
+#menu ul li
+{
+    display:inline-block;
+   
+}
+#menu ul li a{
+    color: white;
+    text-decoration: none;
+    padding-left: 60px;
+       font-size: 20px;
+letter-spacing: 5px;  
+  text-align: center;  
+
+    
+          
+
+}
+#menu {
+    
+    background: #008080;
+    width: 40%;
+    text-transform: uppercase;
+    line-height: 40px;
+    margin: 0 auto;
+    
+   
+
+}
+.listadoproductos{
+    
+    
+      background: white;
+    width: 75%;
+    margin: 0px auto; 
+    margin-top: 30px;
+    padding: 30px;
+    
+}
+#prodocutosgeneral{
+    margin-top: 55px;
+   display: flex; 
+     
+    
+}
+ 
+
+ 
+#encabe{
+    
+ 
+    background: #008080;
+    width: 50%;
+    text-transform: uppercase;
+    line-height: 40px;
+    margin: 0 auto;
+        font-family: "Verdana","Arial";
+    font-size: 20px;
+    color: white;
+     text-align:center; 
+    
+}
+#producto1{
+    
+    margin-left: 0px;
+     margin-right: 80px;
+}
+
+.producto2{
+    
+    margin-left: 10px;
+     margin-right: 80px;
+}
+.producto3{
+    
+    margin-left: 10px;
+     margin-right: 80px;
+}
+.producto4{
+    
+    margin-left: 10px;
+     margin-right: 80px;
+}
+#boton1{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+#boton2{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+#boton3{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+#boton4{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+#electorodomistico1{
+        font-size: 200px;
+
+    
+}
